@@ -1,0 +1,42 @@
+<svg width="1280" height="960" viewBox="0 0 1280 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="960" fill="#0B1118"/>
+  <rect x="92" y="92" width="1096" height="776" rx="28" fill="#101A26" stroke="#243345" stroke-width="2"/>
+  <rect x="140" y="150" width="1000" height="72" rx="16" fill="#071018" stroke="#26384A"/>
+  <circle cx="184" cy="186" r="10" fill="#2FD4A7"/>
+  <circle cx="222" cy="186" r="10" fill="#82F7D7"/>
+  <circle cx="260" cy="186" r="10" fill="#F1D36B"/>
+  <rect x="140" y="274" width="352" height="444" rx="24" fill="#0D1520" stroke="#26384A"/>
+  <rect x="544" y="274" width="596" height="444" rx="24" fill="#0D1520" stroke="#26384A"/>
+  <text x="178" y="354" fill="#EAF3F8" font-family="Arial, sans-serif" font-size="48" font-weight="700">AI + ML</text>
+  <text x="178" y="414" fill="#2FD4A7" font-family="Arial, sans-serif" font-size="28" font-weight="700">Full-Stack Builder</text>
+  <rect x="178" y="474" width="250" height="18" rx="9" fill="#243345"/>
+  <rect x="178" y="522" width="190" height="18" rx="9" fill="#243345"/>
+  <rect x="178" y="570" width="286" height="18" rx="9" fill="#243345"/>
+  <path d="M620 654C700 516 788 506 862 590C925 662 1023 618 1080 484" stroke="#2FD4A7" stroke-width="8" stroke-linecap="round"/>
+  <path d="M620 706C710 608 790 654 864 678C942 702 1011 680 1080 610" stroke="#82F7D7" stroke-width="6" stroke-linecap="round" opacity="0.8"/>
+  <g stroke="#2FD4A7" stroke-width="4">
+    <circle cx="620" cy="654" r="13" fill="#101A26"/>
+    <circle cx="724" cy="536" r="13" fill="#101A26"/>
+    <circle cx="862" cy="590" r="13" fill="#101A26"/>
+    <circle cx="982" cy="614" r="13" fill="#101A26"/>
+    <circle cx="1080" cy="484" r="13" fill="#101A26"/>
+  </g>
+  <g opacity="0.42" stroke="#243345">
+    <path d="M604 330H1100"/>
+    <path d="M604 410H1100"/>
+    <path d="M604 490H1100"/>
+    <path d="M604 570H1100"/>
+    <path d="M604 650H1100"/>
+    <path d="M660 318V730"/>
+    <path d="M760 318V730"/>
+    <path d="M860 318V730"/>
+    <path d="M960 318V730"/>
+    <path d="M1060 318V730"/>
+  </g>
+  <rect x="624" y="348" width="156" height="44" rx="22" fill="#132A28" stroke="#2FD4A7"/>
+  <text x="652" y="378" fill="#82F7D7" font-family="Arial, sans-serif" font-size="18" font-weight="700">Python</text>
+  <rect x="806" y="348" width="178" height="44" rx="22" fill="#132A28" stroke="#2FD4A7"/>
+  <text x="836" y="378" fill="#82F7D7" font-family="Arial, sans-serif" font-size="18" font-weight="700">TensorFlow</text>
+  <rect x="140" y="760" width="1000" height="58" rx="18" fill="#071018" stroke="#26384A"/>
+  <text x="178" y="797" fill="#9AA8B7" font-family="Arial, sans-serif" font-size="24">ResNet50 . Django . Flask . Data Pipelines . Computer Vision</text>
+</svg>
